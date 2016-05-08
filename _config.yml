@@ -1,0 +1,9 @@
+# Site settings
+title: SimpleScript Docs
+description: >
+  The official documentation of the SimpleScript plugin.
+baseurl: "/SimpleScriptDocs"
+github_username: FlibioStudio
+
+# Build settings
+markdown: kramdown
