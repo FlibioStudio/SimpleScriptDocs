@@ -30,5 +30,5 @@ is used to send a message to a player.
 
 **Example Script:**
 
-        on join:
-		    send "Hello!" to the player
+    on join:
+	    send "Hello!" to the player
