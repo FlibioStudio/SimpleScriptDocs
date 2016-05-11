@@ -34,30 +34,14 @@ Contains the display name of a variable.
 
 **Example Value:** `Flibio`
 
+### Permission
+
+Gets if a player has a certain permission.
+
+**Example Value:** Can not be printed
+
 ### Location
 
 Contains the location of a variable in a world.
 
 **Example Value:** Can not be printed
-
----
-
-## Variable Functions
-
-### Permission
-
-Checks if a variable has a permission.
-
-**Example Input and Value:** `test.permission` -> `false`
-
-### Send Message
-
-Sends a message to a variable.
-
-**Example Input and Value:** `Hello` -> `true`
-
-### Send Group Message
-
-Sends a message to a group of variable.
-
-**Example Input and Value:** `Hello` -> `true`
