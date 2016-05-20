@@ -30,5 +30,9 @@ is used to send a message to a player.
 
 **Example Script:**
 
-    on join:
-	    send "Hello!" to the player
+```nohighlight
+on join:
+    send "Hello!" to the player
+```
+
+More example can be found on the [examples page](http://flibiostudio.github.io/SimpleScriptDocs/examples.html).

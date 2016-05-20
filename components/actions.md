@@ -8,7 +8,7 @@ For example, to listen to send a player a message, type `send "Hello!" to the pl
 
 ## Send
 
-Sends a message to a player.
+Sends a message to a player. Allows messages to be formatted using formatting codes (`&`).
 
 **Usage:** `send <message> to <receiver>`
 
@@ -34,4 +34,4 @@ Teleports a player to a location.
 
 Drops items at a certain location.
 
-**Usage:** `drop <amount> of <item type> at <location>`
+**Usage:** `drop <amount> <item type> at <location>`

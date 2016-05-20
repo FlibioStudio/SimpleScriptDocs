@@ -9,8 +9,21 @@
     padding: 1px;
     margin: 0;
  }
- .highlighter-rouge code {
+ pre {
     background: #f8f8f8 !important;
+    &:not(.highlight) {
+       padding: 1em;
+    }
+    & code {
+        color: #333;
+        background: #f8f8f8 !important;
+        font-family: Consolas;
+        font-size: 14px;
+        padding: 1px;
+        margin: 0;
+        white-space: pre;
+        margin: 1em 0px 1em;
+    }
  }
 .highlight {
     background: #fff;
