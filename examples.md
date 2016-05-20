@@ -33,5 +33,5 @@ Disallows block breaking, unless the player has the permission `admin.blockbreak
 on break:
     player has permission not of "admin.blockbreak"
     cancel
-    send "You can not break blocks!" to the player.
+    send "You can not break blocks!" to the player
 ```
